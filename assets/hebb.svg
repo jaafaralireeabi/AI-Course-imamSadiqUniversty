@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" direction="rtl" width="900" height="300" viewBox="0 0 900 300" font-family="'Noto Kufi Arabic','Noto Sans Arabic','Segoe UI',Tahoma,Arial,sans-serif">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" fill="#94a3b8"/></marker>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22c55e"/><stop offset="1" stop-color="#0d9488"/></linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#6366f1"/></linearGradient>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f97316"/><stop offset="1" stop-color="#e11d48"/></linearGradient>
+  </defs>
+  <rect width="900" height="300" rx="20" fill="#0f172a"/>
+  <text x="450" y="44" text-anchor="middle" font-size="24" font-weight="700" fill="#f1f5f9">دورة التعلّم بقاعدة هيب (Hebb Rule)</text>
+  <g text-anchor="middle">
+    <rect x="630" y="90" width="230" height="130" rx="18" fill="url(#g1)"/>
+    <text x="745" y="135" fill="#fff" font-size="21" font-weight="700">١. التهيئة</text>
+    <text x="745" y="180" fill="#ecfdf5" font-size="20" font-family="Consolas,Menlo,monospace" direction="ltr">w = 0 , b = 0</text>
+    <path d="M325 155L275 155" stroke="#94a3b8" stroke-width="3" marker-end="url(#a)"/>
+    <rect x="335" y="90" width="230" height="130" rx="18" fill="url(#g2)"/>
+    <text x="450" y="135" fill="#fff" font-size="21" font-weight="700">٢. التدريب</text>
+    <text x="450" y="172" fill="#ede9fe" font-size="19" font-family="Consolas,Menlo,monospace" direction="ltr">w ← w + x·t</text>
+    <text x="450" y="200" fill="#ede9fe" font-size="19" font-family="Consolas,Menlo,monospace" direction="ltr">b ← b + t</text>
+    <path d="M620 155L570 155" stroke="#94a3b8" stroke-width="3" marker-end="url(#a)"/>
+    <rect x="40" y="90" width="230" height="130" rx="18" fill="url(#g3)"/>
+    <text x="155" y="135" fill="#fff" font-size="21" font-weight="700">٣. الاختبار</text>
+    <text x="155" y="172" fill="#fff1f2" font-size="19" font-family="Consolas,Menlo,monospace" direction="ltr">net = x·w + b</text>
+    <text x="155" y="200" fill="#fff1f2" font-size="19" font-family="Consolas,Menlo,monospace" direction="ltr">y = net&gt;0 ? 1 : -1</text>
+  </g>
+  <text x="450" y="268" text-anchor="middle" fill="#94a3b8" font-size="17">تستخدم القيم ثنائية القطبية (1 و <tspan direction="ltr" unicode-bidi="isolate">−1</tspan>) حتى تتعلّم الشبكة من الأمثلة الموجبة والسالبة معاً</text>
+</svg>
