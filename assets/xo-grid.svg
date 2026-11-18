@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" direction="rtl" width="900" height="340" viewBox="0 0 900 340" font-family="'Noto Kufi Arabic','Noto Sans Arabic','Segoe UI',Tahoma,Arial,sans-serif">
+<rect width="900" height="340" rx="20" fill="#ffffff" stroke="#e2e8f0"/>
+<text x="450" y="42" text-anchor="middle" font-size="24" font-weight="700" fill="#1e293b">تمثيل الحروف بشبكة 5×5 (25 مدخلاً)</text>
+<rect x="60" y="70" width="38" height="38" rx="7" fill="#6366f1" stroke="#cbd5e1"/>
+<rect x="104" y="70" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="148" y="70" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="192" y="70" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="236" y="70" width="38" height="38" rx="7" fill="#6366f1" stroke="#cbd5e1"/>
+<rect x="60" y="114" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="104" y="114" width="38" height="38" rx="7" fill="#6366f1" stroke="#cbd5e1"/>
+<rect x="148" y="114" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="192" y="114" width="38" height="38" rx="7" fill="#6366f1" stroke="#cbd5e1"/>
+<rect x="236" y="114" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="60" y="158" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="104" y="158" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="148" y="158" width="38" height="38" rx="7" fill="#6366f1" stroke="#cbd5e1"/>
+<rect x="192" y="158" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="236" y="158" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="60" y="202" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="104" y="202" width="38" height="38" rx="7" fill="#6366f1" stroke="#cbd5e1"/>
+<rect x="148" y="202" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="192" y="202" width="38" height="38" rx="7" fill="#6366f1" stroke="#cbd5e1"/>
+<rect x="236" y="202" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="60" y="246" width="38" height="38" rx="7" fill="#6366f1" stroke="#cbd5e1"/>
+<rect x="104" y="246" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="148" y="246" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="192" y="246" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="236" y="246" width="38" height="38" rx="7" fill="#6366f1" stroke="#cbd5e1"/>
+<text x="168" y="310" text-anchor="middle" font-size="20" fill="#334155">الحرف X ← الهدف <tspan direction="ltr" unicode-bidi="isolate">+1</tspan></text>
+<rect x="624" y="70" width="38" height="38" rx="7" fill="#f43f5e" stroke="#cbd5e1"/>
+<rect x="668" y="70" width="38" height="38" rx="7" fill="#f43f5e" stroke="#cbd5e1"/>
+<rect x="712" y="70" width="38" height="38" rx="7" fill="#f43f5e" stroke="#cbd5e1"/>
+<rect x="756" y="70" width="38" height="38" rx="7" fill="#f43f5e" stroke="#cbd5e1"/>
+<rect x="800" y="70" width="38" height="38" rx="7" fill="#f43f5e" stroke="#cbd5e1"/>
+<rect x="624" y="114" width="38" height="38" rx="7" fill="#f43f5e" stroke="#cbd5e1"/>
+<rect x="668" y="114" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="712" y="114" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="756" y="114" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="800" y="114" width="38" height="38" rx="7" fill="#f43f5e" stroke="#cbd5e1"/>
+<rect x="624" y="158" width="38" height="38" rx="7" fill="#f43f5e" stroke="#cbd5e1"/>
+<rect x="668" y="158" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="712" y="158" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="756" y="158" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="800" y="158" width="38" height="38" rx="7" fill="#f43f5e" stroke="#cbd5e1"/>
+<rect x="624" y="202" width="38" height="38" rx="7" fill="#f43f5e" stroke="#cbd5e1"/>
+<rect x="668" y="202" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="712" y="202" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="756" y="202" width="38" height="38" rx="7" fill="#f1f5f9" stroke="#cbd5e1"/>
+<rect x="800" y="202" width="38" height="38" rx="7" fill="#f43f5e" stroke="#cbd5e1"/>
+<rect x="624" y="246" width="38" height="38" rx="7" fill="#f43f5e" stroke="#cbd5e1"/>
+<rect x="668" y="246" width="38" height="38" rx="7" fill="#f43f5e" stroke="#cbd5e1"/>
+<rect x="712" y="246" width="38" height="38" rx="7" fill="#f43f5e" stroke="#cbd5e1"/>
+<rect x="756" y="246" width="38" height="38" rx="7" fill="#f43f5e" stroke="#cbd5e1"/>
+<rect x="800" y="246" width="38" height="38" rx="7" fill="#f43f5e" stroke="#cbd5e1"/>
+<text x="732" y="310" text-anchor="middle" font-size="20" fill="#334155">الحرف O ← الهدف <tspan direction="ltr" unicode-bidi="isolate">−1</tspan></text>
+<g font-family="Consolas,Menlo,monospace" direction="ltr" text-anchor="middle">
+<rect x="345" y="120" width="210" height="110" rx="16" fill="#0f172a"/>
+<text x="450" y="160" fill="#7dd3fc" font-size="20">Hebb Net</text>
+<text x="450" y="192" fill="#e2e8f0" font-size="16">25 w + bias</text>
+<text x="450" y="216" fill="#a5b4fc" font-size="16">→ X / O</text>
+<path d="M290 175H340M560 175H610" stroke="#94a3b8" stroke-width="3"/>
+</g>
+<text x="450" y="290" text-anchor="middle" font-size="16" fill="#64748b">المربع المظلَّل = 1 ، المربع الفارغ = <tspan direction="ltr" unicode-bidi="isolate">−1</tspan></text>
+</svg>
