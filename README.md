@@ -6,7 +6,7 @@
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2016%2B-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-Hebb_%26_McCulloch--Pitts-6366f1?style=for-the-badge)
-![Labs](https://img.shields.io/badge/Labs-3-0ea5e9?style=for-the-badge)
+![Labs](https://img.shields.io/badge/Labs-مستمرة_🚧-0ea5e9?style=for-the-badge)
 ![Language](https://img.shields.io/badge/اللغة-العربية-16a34a?style=for-the-badge)
 
 </div>
@@ -16,7 +16,9 @@
 ## 📖 نبذة عن المستودع
 
 يضمّ هذا المستودع **مختبرات مادة الذكاء الاصطناعي** في **جامعة الإمام الصادق (عليه السلام)**، وهي مكتوبة بلغة **MATLAB**.
-تبدأ المختبرات من أبسط نموذج للعصبون الاصطناعي، ثم تنتقل إلى **قاعدة هيب للتعلّم**، وتنتهي بتطبيق عملي يميّز بين الحرفين **X** و **O** من خلال واجهة رسومية.
+تبدأ المختبرات من أبسط نموذج للعصبون الاصطناعي، ثم تنتقل إلى **قاعدة هيب للتعلّم**، ثم إلى تطبيق عملي يميّز بين الحرفين **X** و **O** من خلال واجهة رسومية.
+
+> 🚧 **المستودع قيد التحديث:** ستُضاف مختبرات جديدة تباعاً خلال الفصل الدراسي.
 
 > 💡 **الهدف:** فهم كيف «تتعلّم» الشبكة العصبية من الأمثلة، خطوةً بخطوة، ومن الصفر.
 
@@ -29,13 +31,15 @@
 | 🧪 **LAB1** | عصبون ماكولوك – بيتس | بناء البوابتين المنطقيتين AND و OR بدالة عتبة | ⭐ |
 | 🧠 **LAB2** | قاعدة هيب (Hebb Rule) | تدريب شبكة بقيم ثنائية القطبية واختبارها | ⭐⭐ |
 | 🔤 **LAB3** | تمييز الحروف X / O | شبكة بـ 25 مدخلاً مع واجهة رسومية للرسم والتنبؤ | ⭐⭐⭐ |
+| ⏳ **LAB4+** | *قريباً…* | مختبرات جديدة تُضاف مع تقدّم المادة | — |
 
 ```mermaid
 flowchart RL
-    A["🧪 LAB1<br/>عصبون ماكولوك – بيتس"] --> B["🧠 LAB2<br/>قاعدة هيب"] --> C["🔤 LAB3<br/>تمييز X و O"]
+    A["🧪 LAB1<br/>عصبون ماكولوك – بيتس"] --> B["🧠 LAB2<br/>قاعدة هيب"] --> C["🔤 LAB3<br/>تمييز X و O"] -.-> D["⏳ المختبرات القادمة<br/>قريباً…"]
     style A fill:#e0f2fe,stroke:#0284c7,color:#0c4a6e
     style B fill:#ede9fe,stroke:#7c3aed,color:#3b0764
     style C fill:#ffe4e6,stroke:#e11d48,color:#881337
+    style D fill:#f1f5f9,stroke:#94a3b8,color:#475569,stroke-dasharray: 5 5
 ```
 
 ---
@@ -276,6 +280,7 @@ AI-Course-imamSadiqUniversty/
 │   ├── netTest.m
 │   ├── importfile1.m
 │   └── xoData.txt
+├── 📁 LAB4 …         ← مختبرات قادمة 🚧
 ├── 📁 assets/          ← صور ورسومات الملف التعريفي
 └── 📄 README.md
 ```
