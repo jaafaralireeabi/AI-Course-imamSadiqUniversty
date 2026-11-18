@@ -6,7 +6,7 @@
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2016%2B-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-Hebb_%26_McCulloch--Pitts-6366f1?style=for-the-badge)
-![Labs](https://img.shields.io/badge/Labs-مستمرة_🚧-0ea5e9?style=for-the-badge)
+![Labs](https://img.shields.io/badge/Labs-%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9_%F0%9F%9A%A7-0ea5e9?style=for-the-badge)
 ![Language](https://img.shields.io/badge/اللغة-العربية-16a34a?style=for-the-badge)
 
 </div>
