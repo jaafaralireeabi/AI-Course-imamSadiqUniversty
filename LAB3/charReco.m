@@ -5,7 +5,7 @@ function [y] = charReco(imgTest)
     x=xoData(:,1:25);
     t=xoData(:,26);
 
-    w = zeros(1,size(x,1));
+    w = zeros(1,size(x,2));
     b=0;
     %train
     [w b] = hebbRule(w,b,x,t);
